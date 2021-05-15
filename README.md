@@ -1,4 +1,4 @@
-- 👋 Hello there, @mariuswink
+- 👋 Hello there, I am @mariuswink
 - :robot: I’m interested in Robotics and Automation.
 - :panda_face: I’m currently learning to program the Franka Emika Panda with  C/C++ and ROS.
 
