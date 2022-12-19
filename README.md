@@ -1,6 +1,6 @@
 - 👋 Hello there, I am @mariuswink
 - :robot: I’m interested in Robotics and Automation.
-- :panda_face: I’m currently learning to program the Franka Emika Panda with  C/C++ and ROS.
+- :panda_face: I program robots using C++.
 
 <!---
 mariuswink/mariuswink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
